@@ -1,0 +1,73 @@
+header {
+    text-align: right;
+    text-decoration-color: black;
+}
+a{
+    color:black;
+}
+a:link{
+    text-decoration-line: none;
+    text-decoration-color: black;
+}
+a:hover{
+    text-decoration-line: underline;
+}
+#logo{
+    display: block;
+    margin: auto;
+    margin-top: 5cm;
+}
+#input{
+    display: block;
+    margin:auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    width: 500px;
+    height: 40px;
+    border-color: rgb(212, 212, 212);
+    border-block-end-color:  rgb(212, 212, 212);
+    
+}
+#pesquisar{
+    display: inline;
+    margin-left: 590px;
+    border: none;
+    height: 50px;
+    width: 200px;  
+    background-color: unset;
+    background-color: #F4F4F4;
+    text-decoration-color: rgb(117, 117, 117); 
+}
+#pesquisar:hover{
+    background-color: #F4F4F4;
+    border: 3px;
+    -moz-border-bottom-colors: black;
+}
+#sorte{
+    display: inline;
+    margin-left: 4px;
+    border: none;
+    height: 50px;
+    width: 200px;  
+    background-color: unset;
+    background-color: #F4F4F4;
+    text-decoration-color: rgb(117, 117, 117);
+}
+.bcolor{
+    background-color: #F4F4F4;
+    display: block;
+}
+.margin-footer{
+    display: inline;
+    }
+.right{
+    text-align: right;
+
+    }
+footer{
+    margin-top: 500px;
+
+}
+.line{
+    display: inline;
+}
